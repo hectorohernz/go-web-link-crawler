@@ -1,6 +1,6 @@
 # Go Web Scraper 
 
-Quating Wikipedia Definition:
+Wikipedia Definition:
 
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. The web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol or through a web browser
 
